@@ -1,0 +1,7 @@
+No = 17
+i = 2
+
+while(i <= No):
+    print(i)
+    i = i + 1
+    
